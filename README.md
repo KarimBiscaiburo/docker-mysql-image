@@ -11,3 +11,7 @@
 > Verificá que no tengas en uso el puerto "3306". Si tenes MySQL Workbench es probable que tengas alguna conexión abierta.
 
 3. Ahora podes conectarte a la base de datos con las variables definidas en el archivo "Dockerfile"
+
+>[!IMPORTANT]
+> Es necesario tener instalado Docker
+> https://www.docker.com/products/docker-desktop/
